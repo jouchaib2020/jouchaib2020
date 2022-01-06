@@ -1,4 +1,4 @@
-### Hi there, I'm Jaouad] 👋 
+### Hi there, I'm Jaouad 👋 
 
 <p align="left"> <a href="https://twitter.com/OuchaibJ" target="blank"><img src="https://img.shields.io/twitter/follow/OuchaibJ?logo=twitter&style=for-the-badge" alt="OuchaibJ" /></a> </p>
 
