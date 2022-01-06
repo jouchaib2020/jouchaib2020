@@ -35,7 +35,7 @@
 
 [<img align="left" alt="TensorFlow" width="26px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />][webdevplaylist]
 
-[<img align="left" alt="Scikit-Learn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />][webdevplaylist]
+[<img align="left" alt="Scikit-Learn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />][webdevplaylist]
 [<img align="left" alt="OpenCV" width="26px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" />][webdevplaylist]
 
 
