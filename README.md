@@ -5,7 +5,7 @@
 ## I'm a Student, Developer, and Freelencer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate in open source projects
+- 👯 I’m looking to bring into life new Technologies that will help make this planet a better place 🪁
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to dance and play football
 
