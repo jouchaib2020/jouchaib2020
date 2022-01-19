@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to bring into life new Technologies that will help make this planet a better place 🪁
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love dnacing and AC Milan ![AcmilanAcmilanFanTokenGIF](https://user-images.githubusercontent.com/76879201/150156273-ee688060-ac47-4657-95d0-d9cf106e1037.gif)
+- ⚡ Fun fact: I love dnacing and AC Milan [<img align="left" alt="j_ouchaib | Ac Milan" width="22px" src="https://user-images.githubusercontent.com/76879201/150156273-ee688060-ac47-4657-95d0-d9cf106e1037.gif"/>][AcmilanAcmilanFanTokenGIF]
 
 
 ### Connect with me:
