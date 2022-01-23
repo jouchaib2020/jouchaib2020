@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://twitter.com/OuchaibJ" target="blank"><img src="https://img.shields.io/twitter/follow/OuchaibJ?logo=twitter&style=for-the-badge" alt="OuchaibJ" /></a> </p>
 
-## I'm a Student, Developer, and Freelencer!!
+## I'm a Student, a junoir web Developer, a future data scientist and  aFreelencer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to bring into life new Technologies that will help make this planet a better place 🪁
