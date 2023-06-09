@@ -1,6 +1,6 @@
 ### Hi there, I'm Jaouad 👋 
 
-<p align="left"> <a href="https://twitter.com/OuchaibJ" target="blank"><img src="https://img.shields.io/twitter/follow/OuchaibJ?logo=twitter&style=for-the-badge" alt="OuchaibJ" /></a> </p>
+<p align="left"> <a href="https://twitter.com/DeadPoule22" target="blank"><img src="https://img.shields.io/twitter/follow/OuchaibJ?logo=twitter&style=for-the-badge" alt="OuchaibJ" /></a> </p>
 
 ## Hi, I'm a college student in computer science, and I love building cool things :)!!
 
